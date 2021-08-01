@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhargavisubramanya
 - 👀 I’m interested in reading high fantasy, anime and coding
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning front end development via JS and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - bhargavi.subramanya4@gmail.com
 
